@@ -14,7 +14,7 @@ def findLinear(numbers):  # find a & b of linear sequence
         print("Sequence is not linear")
 
 
-sequence = []
+sequence = []       #This is a mumu input
 first_difference = []
 second_difference = []
 for i in range(4):  # input
